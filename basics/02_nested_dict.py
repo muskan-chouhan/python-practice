@@ -8,3 +8,14 @@ student = {
 }
 
 print(student["subject"]['java'])
+
+# DICTIONARY METHODS
+
+#ALL KEY ACCESS
+print(student.keys())
+#type casting 
+print(list(student.keys()))
+
+
+#total number  of keys
+print(len(student))
