@@ -29,7 +29,7 @@ print(collection1.pop())
 
 #5 union method  >similar value milkar new set create kr deta hai 
 
-set1 = {1,5,6,4,2}
+set1 = {1,5,6,4,2,4}
 set2 = {5,6,6}
 print(set1.union(set2))   #new set return krega ,old set same rhege print(set1)
 
