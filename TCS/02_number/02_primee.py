@@ -1,6 +1,6 @@
 #Check if a number is prime or not
 
-n = 5
+n = 7
 count = 0 
 for i in range(1, n+1): # 1 aur n ke alawa koi aur number divide kar raha hai ya nahi
     if n % i == 0:    #4 % 1 == 0 => 0  , 4 % 2  == 0 , 2 
