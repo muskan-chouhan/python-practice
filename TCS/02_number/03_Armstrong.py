@@ -9,3 +9,4 @@ for el in list:
         count += 1
 
 print(count)
+ 
