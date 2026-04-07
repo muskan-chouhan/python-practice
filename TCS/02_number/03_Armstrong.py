@@ -2,7 +2,7 @@
 n =3
 count = 0
 
-list = [1,2,3,4,5,6,7,8,9]
+list = [1,2,3,4,5,6,7,8,]
 
 for el in list:
     if el >= n:
