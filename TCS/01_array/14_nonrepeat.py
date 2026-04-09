@@ -11,4 +11,6 @@ def findRepeating(arr):
 
 
 arr = [1,2,3,2,4,1,5]
-findRepeating(arr)           
+findRepeating(arr);
+
+
