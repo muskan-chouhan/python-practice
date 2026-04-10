@@ -1,5 +1,5 @@
 # Find all the non-repeating elements in an array
-arr = [1,4,2,1,2,4]
+arr = [1,4,2,1,2,4,2]
 def findRepeating(arr):
     n = len(arr)
 
